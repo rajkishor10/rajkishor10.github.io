@@ -596,8 +596,8 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
 
 @media only screen and (min-width: 1070px) {
   .logo {
-    height: 70px;
-    width: 70px;
+    height: 150px;
+    width: 150px;
     background: url(../img/GOC1.png) center center;
     background-size: 70px 47px;
     background-repeat: no-repeat;
@@ -928,7 +928,7 @@ footer {
   display: inline-block;
   margin-bottom: 70px;
   color: #303e49;
-  font-size: 72px;
+  font-size: 36px;
   font-weight: 300; }
 
 .biglink:hover {
