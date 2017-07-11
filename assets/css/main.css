@@ -910,13 +910,13 @@ footer {
     margin-left: 0; }
 
 .bar {
-  width: 250px;
+  width: 100px;
   height: 0px;
   margin: 40px auto 40px;
   border-top: 4px solid #303e49; }
 
 .bar-blog {
-  width: 250px;
+  width: 100px;
   height: 0px;
   margin: 20px auto 20px;
   border-top: 4px solid #303e49; }
